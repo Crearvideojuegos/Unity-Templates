@@ -29,7 +29,7 @@ You can currently find in this project:
 
 ## Unity Version
 
-[![Made with Unity](https://img.shields.io/badge/Unity-2022.3.3f1-57b.svg?&logo=unity)](https://www.unity.com)
+[![Made with Unity](https://img.shields.io/badge/Unity-2022.3.13f1-57b.svg?&logo=unity)](https://www.unity.com)
 
 ## License
 

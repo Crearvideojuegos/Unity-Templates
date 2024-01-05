@@ -25,7 +25,7 @@ namespace nameSplashScreen
         private void RotationImage()
         {
             Vector3 rotation = new Vector3(0, 0, -10);
-            imageLoading.transform.Rotate(rotation * 10 * Time.deltaTime);
+            imageLoading.transform.Rotate(rotation * 10 * Time.fixedDeltaTime);
         }
 
         private IEnumerator TextLoadingDots()

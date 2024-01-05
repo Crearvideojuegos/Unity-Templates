@@ -61,7 +61,6 @@ namespace nameSplashScreen
         {
             yield return new WaitForSeconds(1f);
             loadingImage.SetActive(true);
-
         }
 
     }
