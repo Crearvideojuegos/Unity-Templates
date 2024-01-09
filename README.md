@@ -26,6 +26,7 @@ This project is not a game.
 You can currently find in this project:
 
     -SplashScreen with Loading Screen
+    -CreditsScene with animation
 
 ## Unity Version
 
