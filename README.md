@@ -31,8 +31,7 @@ Este proyecto no es un juego.
 
 Actualmente puedes encontrar en este proyecto:
 
-    -SplashScreen con Pantalla de carga
-    -Escena de creditos con animación
+    -SplashScreen con Pantalla de carga entre escenas. El mismo proyecto tiene una pantalla para mostrar créditos con una animación.
 
 ## Unity Version
 
