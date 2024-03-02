@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-
-namespace myFPS 
+namespace myUnityTemplate 
 {
     public class LoaderScene : MonoBehaviour
     {

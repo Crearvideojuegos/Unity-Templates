@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace myFPS
+namespace myUnityTemplate
 {
     public static class ConstantsGame 
     {

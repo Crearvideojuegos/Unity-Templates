@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-namespace myFPS
+namespace myUnityTemplate
 {
     public class MainMenu : MonoBehaviour
     {

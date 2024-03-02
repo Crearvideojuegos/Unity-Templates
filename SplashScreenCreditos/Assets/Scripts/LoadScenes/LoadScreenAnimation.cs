@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-namespace myFPS
+namespace myUnityTemplate
 {
     public class LoadScreenAnimation : MonoBehaviour
     {

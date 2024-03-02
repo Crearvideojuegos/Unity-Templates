@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-namespace myFPS
+namespace myUnityTemplate
 {
     public class CreditsAnimation : MonoBehaviour, IPointerClickHandler
     {
