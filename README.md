@@ -31,7 +31,7 @@ Este proyecto no es un juego.
 
 Actualmente puedes encontrar en este proyecto:
 
-    -SplashScreen con Pantalla de carga entre escenas. El mismo proyecto tiene una pantalla para mostrar créditos con una animación.
+    -BaseGame: En este proyecto de Unity encontrarás una Template que consta de una SplashScreen que lleva a un menu principal, donde tendras una pantalla de Creditos y Opciones. Al cargar entre escenas tendras una pantalla de carga con un logo animado. En el juego tienes un Test Level con un Player en primera persona, y un menu de Pausa.
 
 ## Unity Version
 
